@@ -2,15 +2,15 @@
 A curated collection of cutting-edge products, open-source projects, and test cases for deep research.
 
 ## Product
-### OpenAI Deep Research 
+### OpenAI Deep Research
 - docs
   - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 
-### Gemini Deep Research 
+### Gemini Deep Research
 - docs
   - [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/)
 
-### Perplexity Deep Research 
+### Perplexity Deep Research
 - docs
   - [Introducing Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 - site
@@ -22,8 +22,6 @@ A curated collection of cutting-edge products, open-source projects, and test ca
 - code
   - https://github.com/jina-ai/node-DeepResearch ![Stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social) ![Forks](https://img.shields.io/github/forks/jina-ai/node-DeepResearch?style=social)
     - ![Description](https://img.shields.io/badge/dynamic/json?label=&query=%24.description&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjina-ai%2Fnode-DeepResearch&color=inactive&logo=none)
-- site
-  - https://search.jina.ai/
 
 ### Genspark Deep Research
 - site
@@ -32,6 +30,10 @@ A curated collection of cutting-edge products, open-source projects, and test ca
 ### Grok Deep Search
 
 ### Storm
+- site
+  - https://storm.genie.stanford.edu/
+
+### Co-Storm
 - site
   - https://storm.genie.stanford.edu/
 
@@ -70,3 +72,28 @@ A curated collection of cutting-edge products, open-source projects, and test ca
 
 
 ## [Test Cases](./Test_Cases)
+
+
+# Paper Assistant
+## Site
+- [wordvice.ai](https://wordvice.ai/cn)
+- [articoolo.com](http://articoolo.com/)
+- [rytr](https://rytr.me/)
+- [cowriter](https://cowriter.org/login)
+- [笔灵AI](https://ibiling.cn/)
+- AIPaperPass
+- 火龙果写作
+- xyz
+- 范文喵
+- 茅茅虫论文写作
+- 懒人论文
+- 海鲸AI
+- Paperpal
+- 千笔论文
+- 万能小in
+- Co-storm
+- 秘塔写作猫
+- AI论文君
+- 悟智AI
+- Liner
+-
