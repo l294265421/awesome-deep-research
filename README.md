@@ -31,13 +31,29 @@ A curated collection of cutting-edge products, open-source projects, and test ca
 
 ### Grok Deep Search
 
-### Storm
+### Storm/Co-Storm
 - site
   - https://storm.genie.stanford.edu/
 
 ### Write for You
 - site
   - https://write4u.autoagents.fit/
+
+## PaperAsst
+- site
+  - https://paperasst.com/
+
+## Liner
+- site
+  - https://getliner.com/
+
+## cowriter
+- site
+  - https://cowriter.org/login
+
+## 秘塔AI搜索
+- site
+  - https://metaso.cn/
 
 
 ## Project
