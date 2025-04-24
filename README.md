@@ -55,6 +55,10 @@ A curated collection of cutting-edge products, open-source projects, and test ca
 - site
   - https://metaso.cn/
 
+## surveygo
+- site
+  - https://surveygo.thunlp.org/
+
 
 ## Project
 - https://github.com/dzhng/deep-research ![Stars](https://img.shields.io/github/stars/dzhng/deep-research?style=social) ![Forks](https://img.shields.io/github/forks/dzhng/deep-research?style=social)
@@ -83,6 +87,7 @@ A curated collection of cutting-edge products, open-source projects, and test ca
   - ![Description](https://img.shields.io/badge/dynamic/json?label=&query=%24.description&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbtahir%2Fopen-deep-research&color=inactive&logo=none)
 - https://github.com/zilliztech/deep-searcher ![Stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=social) ![Forks](https://img.shields.io/github/forks/zilliztech/deep-searcher?style=social)
   - ![Description](https://img.shields.io/badge/dynamic/json?label=&query=%24.description&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzilliztech%2Fdeep-searcher&color=inactive&logo=none)
+- https://github.com/thunlp/LLMxMapReduce
 
 
 ## [Test Cases](./Test_Cases)
